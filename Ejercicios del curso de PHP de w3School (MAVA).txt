@@ -1,0 +1,8 @@
+Nombre: VERDUGO ALVAREZ MARIO ALEJANDRO
+Nnumero de Cuenta: 20189184
+Grupo: 3-01
+Materia: Introducción al Desarrollo Web
+Maestro: Dr. Herman Geovany Ayala Zúñiga.
+Fecha inicio: 23 de febrero 2026
+
+Link Del Repositorio para ejercicios CSS de W3Schools: https://github.com/13LOLOUT/CSS-w3School-MAVA.git
